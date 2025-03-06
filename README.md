@@ -12,13 +12,8 @@ Toate detaliile despre proiect sunt disponibile în fișierul [Sistem Detectare 
 - Design compact și portabil  
 - Consum redus de energie  
 
-## Tehnologii utilizate  
-- Arduino pentru controlul senzorilor  
-- Senzor ultrasonic HC-SR04 pentru detectarea obstacolelor  
-- Buzzer activ pentru avertizare sonoră  
 
-## Accesarea documentației  
-1. Descărcați fișierul PDF din acest repository.  
-2. Consultați specificațiile și detaliile de implementare.  
 
-Pentru întrebări sau contribuții, puteți deschide un issue.  
+  
+
+  
